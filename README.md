@@ -12,6 +12,29 @@ When you say "black hole = gut" — that's a linguistic operation. Metaphor. Map
 
 ---
 
+## Position in CHIMERA
+
+```
+~/chimera/
+├── nucleus/        (system + framework — DNA)
+├── guts/
+│   ├── body/
+│   ├── math/
+│   └── language/       ← YOU ARE HERE
+├── domains/
+│   ├── relationships/
+│   ├── basketball/
+│   ├── chess/
+│   ├── music/
+│   ├── cooking/
+│   ├── ai/
+│   └── crypto/
+├── infrastructure/ (constellation — deployment)
+└── raw/            (core — unprocessed)
+```
+
+---
+
 ## The Three Guts
 
 ```
