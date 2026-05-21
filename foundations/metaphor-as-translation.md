@@ -158,6 +158,39 @@ THE TEST: Does the metaphor make
 
 ---
 
+---
+
+## Intelligence is Translation
+
+If metaphor is how the brain crosses domains, then intelligence itself is measured not by depth in any single domain, but by the number of cross-domain bridges you can build.
+
+```
+THE SPECIALIST:
+  Knows everything about one field.
+  Deep. Impressive. Narrow.
+  Cannot translate.
+
+THE TRANSLATOR:
+  Knows enough about many fields
+  to see the bridges between them.
+  Wide. Connective. Generative.
+
+  A physicist who understands cooking
+  understands BOTH better
+  than a physicist who only knows physics.
+
+  Because the bridge BETWEEN the domains
+  illuminates what depth alone cannot.
+```
+
+Width before depth. Not because depth doesn't matter — it does. But the connections between domains reveal patterns that no single domain contains. The specialist sees the tree. The translator sees the forest.
+
+CHIMERA itself is proof: every domain — basketball, chess, cooking, music, physics, relationships — is a portal to the same truth. The framework isn't deep in any one domain. It's wide across all of them. And in that width, the universal patterns emerge.
+
+The translator is more valuable than the specialist. Not because translation is harder. Because the bridges between domains are where the NEW insights live. In the between.
+
+---
+
 *Metaphor isn't decoration — it's how the brain crosses domains. Every CHIMERA connection is a metaphor. The Rosetta Stone IS systematic metaphor. And the body is the source domain for all abstract thought. We don't add metaphors to understanding — we understand THROUGH metaphor.*
 
 ---
@@ -165,3 +198,4 @@ THE TEST: Does the metaphor make
 **See also:** [chimera-system: Rosetta Stone](../system/archetypes/rosetta-stone.md) — The archetype of translation
 **See also:** [chimera-body: README](../body/README.md) — The source domain
 **See also:** [chimera-language: Naming Power](naming-power.md) — What happens when you name a pattern
+**See also:** [chimera-system: Compression Reveals Connection](../../nucleus/system/patterns/compression-reveals-connection.md) — The cycle that reveals bridges
