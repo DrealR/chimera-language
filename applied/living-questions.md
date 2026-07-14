@@ -14,6 +14,17 @@ A question performs several operations at once:
 
 > **A statement places an object in the field. A question places an open relation in the field.**
 
+The strongest form is an **answer-bearing question**—a compressed provisional answer with an open membrane:
+
+```text
+Q* = lived seam
+   + candidate relation
+   + remaining uncertainty
+   + door for difference
+```
+
+An empty question contributes too little structure. A closed claim leaves no meaningful entrance. The answer-bearing form gives another body somewhere to stand and something real to challenge.
+
 ## Five forms
 
 - **Mirror:** use one familiar system to reveal another.
@@ -50,3 +61,13 @@ A question is healthier when it:
 The human remains the final weighting operator. AI may retrieve seams, generate variants, translate, and find related receivers, but it should return a finite deck and ask:
 
 > **Which question is alive for you today?**
+
+## Compression and expansion
+
+AI can compress many source traces into one locally coherent candidate. A public field expands one selected candidate into many independent readings across real time. The human membrane chooses what crosses in either direction and what becomes action.
+
+End seeded questions with an authentic correction door when appropriate:
+
+> **Where does this mapping break?**
+
+If no possible response could change the candidate relation, the sentence is a leading claim rather than a living question.
