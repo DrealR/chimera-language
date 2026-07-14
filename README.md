@@ -102,6 +102,7 @@ current/         Public translation discipline
   registers-and-dialects.md  Evidence status versus receiver language
   translation-loop.md        Grounded sequence for crossing bodies
   rosetta-card.md             Reusable translation/provenance template
+  living-questions.md         Questions as bounded, time-portable relational seeds
 ```
 
 ---

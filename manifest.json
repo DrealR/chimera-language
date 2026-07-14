@@ -4,7 +4,7 @@
   "upstream": ["chimera-system"],
   "peers": ["chimera-body", "chimera-math"],
   "downstream": ["chimera-framework"],
-  "doc_count": 13,
+  "doc_count": 14,
   "docs": [
     {"path": "README.md", "references": ["system/README.md", "body/README.md", "math/README.md"]},
     {"path": "foundations/why-language.md", "references": ["math/foundations/why-math.md", "system/archetypes/rosetta-stone.md"]},
@@ -17,6 +17,7 @@
     {"path": "applied/story-as-delivery.md", "references": ["language/applied/the-entry-problem.md", "language/applied/how-chimera-speaks.md", "system/fiction/one-piece-map.md"]},
     {"path": "applied/translation-loop.md", "references": ["language/foundations/registers-and-dialects.md", "language/applied/rosetta-card.md"]},
     {"path": "applied/rosetta-card.md", "references": ["language/foundations/registers-and-dialects.md", "language/applied/translation-loop.md"]},
+    {"path": "applied/living-questions.md", "references": ["language/foundations/registers-and-dialects.md", "language/applied/translation-loop.md", "language/applied/rosetta-card.md"]},
     {"path": "deep/language-as-physics.md", "references": ["ai/deep/the-sandbox.md", "ai/deep/the-teleportation.md", "math/foundations/information-theory.md"]},
     {"path": "deep/babel-and-rosetta.md", "references": ["system/archetypes/rosetta-stone.md", "system/theology/nimrod-babel.md", "math/foundations/godel.md"]}
   ],
