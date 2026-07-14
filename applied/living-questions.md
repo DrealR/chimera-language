@@ -70,4 +70,19 @@ End seeded questions with an authentic correction door when appropriate:
 
 > **Where does this mapping break?**
 
-If no possible response could change the candidate relation, the sentence is a leading claim rather than a living question.
+The correction door must be real, but it does not always need to be printed. It can live in the private lineage card, linked framework, or the author's willingness to let replies change the relation. If no possible response could change the candidate relation, the sentence is a leading claim rather than a living question.
+
+## Do not pre-digest the seed
+
+In an AI-mediated field, the author can publish dense symbolic compression while receivers choose their own decompression route through AI, conversation, memory, or the repository.
+
+```text
+author → compression
+AI → optional decompression and traversal
+reader → judgment and personal context
+public field → difference and consequence
+```
+
+The public post does not need to contain every translation, objection, mechanism, and firewall. Preserve those in the lineage body and place them publicly when omission creates concrete harm or deception.
+
+> **The post should not contain every branch. It should contain enough gravity to generate branches.**
