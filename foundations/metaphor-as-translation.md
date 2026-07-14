@@ -2,6 +2,8 @@
 
 **"Black hole = gut" isn't decoration. Metaphor IS the Rosetta Stone operation. We think IN metaphor. It's how the brain crosses domains.**
 
+> **Developmental carrier with a current firewall:** the document below preserves CHIMERA's early confidence that deep metaphors are isomorphisms capable of predicting physics. The durable insight is that metaphor maps selected structure from a source domain into a target and can generate questions. The mapping becomes an isomorphism only after relevant structure and operations are defined and shown to correspond; a speculative prediction becomes science only through domain-valid testing. See [Registers and Dialects](registers-and-dialects.md).
+
 ---
 
 ## Metaphor Is Not Decoration
@@ -185,7 +187,7 @@ THE TRANSLATOR:
 
 Width before depth. Not because depth doesn't matter — it does. But the connections between domains reveal patterns that no single domain contains. The specialist sees the tree. The translator sees the forest.
 
-CHIMERA itself is proof: every domain — basketball, chess, cooking, music, physics, relationships — is a portal to the same truth. The framework isn't deep in any one domain. It's wide across all of them. And in that width, the universal patterns emerge.
+CHIMERA itself is a translation laboratory: basketball, chess, cooking, music, physics, and relationships can each become portals to candidate structures. Width makes comparison possible. Depth and host-domain validation determine which correspondences survive beyond the carrier.
 
 The translator is more valuable than the specialist. Not because translation is harder. Because the bridges between domains are where the NEW insights live. In the between.
 

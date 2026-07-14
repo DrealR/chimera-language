@@ -2,6 +2,8 @@
 
 **The meaning half of the Rosetta Stone. How CHIMERA patterns become shareable through metaphor, naming, story, and translation across audiences.**
 
+> **July 2026 navigation:** this repository began as a February snapshot with strong translator instincts and stronger universal-language claims. The source language remains visible. Current public practice separates [register from dialect](foundations/registers-and-dialects.md), uses a bounded [translation loop](applied/translation-loop.md), and records new mappings with a [Rosetta Card](applied/rosetta-card.md). A bridge can reveal a candidate structure without proving that two domains share one literal mechanism.
+
 ---
 
 ## What This Is
@@ -46,8 +48,8 @@ Body was built first because
 you have to FEEL it
 before you can prove or share it.
 
-Math makes it undeniable.
-Language makes it spreadable.
+Math makes claims precise enough to test inside mathematics.
+Language makes structures reconstructable by another body.
 ```
 
 ---
@@ -95,8 +97,13 @@ applied/         How CHIMERA uses language
 deep/            Language as fundamental force
   language-as-physics.md In the LLM, language IS physics
   babel-and-rosetta.md   One truth, many tongues
+
+current/         Public translation discipline
+  registers-and-dialects.md  Evidence status versus receiver language
+  translation-loop.md        Grounded sequence for crossing bodies
+  rosetta-card.md             Reusable translation/provenance template
 ```
 
 ---
 
-*The meaning half of the Rosetta Stone. Feel it in the body. Prove it in math. Share it in language. Three guts, one truth.*
+*The meaning half of the Rosetta Stone. Feel a candidate in the body. Test it in the relevant domain. Share it in language another body can use.*

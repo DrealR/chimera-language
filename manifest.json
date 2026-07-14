@@ -4,18 +4,21 @@
   "upstream": ["chimera-system"],
   "peers": ["chimera-body", "chimera-math"],
   "downstream": ["chimera-framework"],
-  "doc_count": 10,
+  "doc_count": 13,
   "docs": [
     {"path": "README.md", "references": ["system/README.md", "body/README.md", "math/README.md"]},
     {"path": "foundations/why-language.md", "references": ["math/foundations/why-math.md", "system/archetypes/rosetta-stone.md"]},
-    {"path": "foundations/metaphor-as-translation.md", "references": ["system/archetypes/rosetta-stone.md", "language/foundations/layers-of-language.md"]},
+    {"path": "foundations/metaphor-as-translation.md", "references": ["system/archetypes/rosetta-stone.md", "language/foundations/layers-of-language.md", "language/foundations/registers-and-dialects.md"]},
+    {"path": "foundations/registers-and-dialects.md", "references": ["language/foundations/metaphor-as-translation.md", "language/applied/translation-loop.md"]},
     {"path": "foundations/naming-power.md", "references": ["math/foundations/information-theory.md", "language/foundations/layers-of-language.md"]},
     {"path": "foundations/layers-of-language.md", "references": ["body/seed/your-body-is-talking.md", "math/foundations/why-math.md"]},
     {"path": "applied/how-chimera-speaks.md", "references": ["language/applied/the-entry-problem.md", "language/applied/story-as-delivery.md", "constellation/agents/honeydew.md"]},
     {"path": "applied/the-entry-problem.md", "references": ["language/applied/how-chimera-speaks.md", "language/applied/story-as-delivery.md"]},
     {"path": "applied/story-as-delivery.md", "references": ["language/applied/the-entry-problem.md", "language/applied/how-chimera-speaks.md", "system/fiction/one-piece-map.md"]},
+    {"path": "applied/translation-loop.md", "references": ["language/foundations/registers-and-dialects.md", "language/applied/rosetta-card.md"]},
+    {"path": "applied/rosetta-card.md", "references": ["language/foundations/registers-and-dialects.md", "language/applied/translation-loop.md"]},
     {"path": "deep/language-as-physics.md", "references": ["ai/deep/the-sandbox.md", "ai/deep/the-teleportation.md", "math/foundations/information-theory.md"]},
     {"path": "deep/babel-and-rosetta.md", "references": ["system/archetypes/rosetta-stone.md", "system/theology/nimrod-babel.md", "math/foundations/godel.md"]}
   ],
-  "last_updated": "2026-02-11"
+  "last_updated": "2026-07-14"
 }
