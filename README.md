@@ -2,7 +2,7 @@
 
 **The meaning half of the Rosetta Stone. How CHIMERA patterns become shareable through metaphor, naming, story, and translation across audiences.**
 
-> **July 2026 navigation:** this repository began as a February snapshot with strong translator instincts and stronger universal-language claims. The source language remains visible. Current public practice separates [register from dialect](foundations/registers-and-dialects.md), distinguishes [transduction, encoding, decoding, and interpretation](foundations/transduction-encoding-and-meaning.md), uses a bounded [translation loop](applied/translation-loop.md), and records new mappings and their source→middle→receiver topology with a [Rosetta Card](applied/rosetta-card.md). A bridge can reveal a candidate structure without proving that two domains share one literal mechanism.
+> **July 2026 navigation:** this repository began as a February snapshot with strong translator instincts and stronger universal-language claims. The source language remains visible. Current public practice separates [register from dialect](foundations/registers-and-dialects.md), distinguishes [transduction, encoding, decoding, and interpretation](foundations/transduction-encoding-and-meaning.md), treats [awakening as an operation rather than a status](foundations/awakening-as-operation-not-status.md), uses a bounded [translation loop](applied/translation-loop.md), and records new mappings and their source→middle→receiver topology with a [Rosetta Card](applied/rosetta-card.md). A bridge can reveal a candidate structure without proving that two domains share one literal mechanism.
 
 ---
 
@@ -89,6 +89,7 @@ foundations/     What language IS in CHIMERA
   naming-power.md        Naming gives power over pattern
   layers-of-language.md  Five layers from body to silence
   transduction-encoding-and-meaning.md  How patterns physically and symbolically cross bodies
+  awakening-as-operation-not-status.md  Preserve transformation without creating a superior class
 
 applied/         How CHIMERA uses language
   how-chimera-speaks.md  The voice of the philosophy
