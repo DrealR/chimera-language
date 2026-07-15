@@ -4,7 +4,7 @@
   "upstream": ["chimera-system"],
   "peers": ["chimera-body", "chimera-math"],
   "downstream": ["chimera-framework"],
-  "doc_count": 14,
+  "doc_count": 15,
   "docs": [
     {"path": "README.md", "references": ["system/README.md", "body/README.md", "math/README.md"]},
     {"path": "foundations/why-language.md", "references": ["math/foundations/why-math.md", "system/archetypes/rosetta-stone.md"]},
@@ -12,6 +12,7 @@
     {"path": "foundations/registers-and-dialects.md", "references": ["language/foundations/metaphor-as-translation.md", "language/applied/translation-loop.md"]},
     {"path": "foundations/naming-power.md", "references": ["math/foundations/information-theory.md", "language/foundations/layers-of-language.md"]},
     {"path": "foundations/layers-of-language.md", "references": ["body/seed/your-body-is-talking.md", "math/foundations/why-math.md"]},
+    {"path": "foundations/transduction-encoding-and-meaning.md", "references": ["language/foundations/registers-and-dialects.md", "language/applied/translation-loop.md", "language/applied/rosetta-card.md"]},
     {"path": "applied/how-chimera-speaks.md", "references": ["language/applied/the-entry-problem.md", "language/applied/story-as-delivery.md", "constellation/agents/honeydew.md"]},
     {"path": "applied/the-entry-problem.md", "references": ["language/applied/how-chimera-speaks.md", "language/applied/story-as-delivery.md"]},
     {"path": "applied/story-as-delivery.md", "references": ["language/applied/the-entry-problem.md", "language/applied/how-chimera-speaks.md", "system/fiction/one-piece-map.md"]},
