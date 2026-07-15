@@ -72,6 +72,21 @@ End seeded questions with an authentic correction door when appropriate:
 
 The correction door must be real, but it does not always need to be printed. It can live in the private lineage card, linked framework, or the author's willingness to let replies change the relation. If no possible response could change the candidate relation, the sentence is a leading claim rather than a living question.
 
+## One question across four chambers
+
+The same seeded question can enter four different language relations without redundancy:
+
+| Operation | Language function |
+|-----------|-------------------|
+| **Ask AI** | Branch the compressed inherited possibility space. |
+| **Search the field** | Retrieve surviving language and earlier answers. |
+| **Post publicly** | Invite independent bodies and future activations. |
+| **Navigate the feed** | Let sustained attention surface adjacent vocabulary, people, and counterweights. |
+
+Search is an explicit verbal query. Feed navigation is an implicit behavioral query written through pauses, returns, follows, and replies. Because that prompt is ambiguous and the platform has objectives of its own, the operator should cultivate both **resonance** and **resistance** rather than teaching the field only a preferred answer.
+
+The language body is complete only when the return settles into a changed question, tested action, relationship, artifact, or preserved correction.
+
 ## Do not pre-digest the seed
 
 In an AI-mediated field, the author can publish dense symbolic compression while receivers choose their own decompression route through AI, conversation, memory, or the repository.
